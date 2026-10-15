@@ -1,0 +1,7 @@
+# unsloth installs separately (see README Colab section):
+# pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
+trl
+transformers
+datasets
+peft
+accelerate
